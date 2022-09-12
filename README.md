@@ -3,6 +3,7 @@
 Testing Vuepress setup, install, update, remove
 
 Setup + install Vuepress
+
 Ingest document pages
 Render pages
 Pull + review
